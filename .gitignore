@@ -1,0 +1,53 @@
+# Qt Creator
+# .user files
+*.user
+*.user.*
+*.pro.user
+
+# Build directories
+build-*
+*.build-*
+
+# Compiled files
+*.o
+*.a
+*.so
+*.lib
+*.exe
+*.dll
+*.app
+*.dmg
+*.deb
+*.rpm
+*.tar.gz
+*.zip
+
+# Qt Creator generated files
+*.qmlc
+*.qmlcache
+*.qbs.user
+*.qbs.shared.build
+
+# Automatic backup files
+*.autosave
+
+# IDE related files
+.idea/
+*.idea.*
+
+# Misc files
+*.log
+*.lastbuild
+Thumbs.db
+
+# OS generated files
+.DS_Store*
+ehthumbs.db
+Icon?
+
+# User preferences
+.userPrefs
+
+# Gradle
+.gradle/
+build/
